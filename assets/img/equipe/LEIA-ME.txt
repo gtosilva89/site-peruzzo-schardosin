@@ -1,0 +1,3 @@
+Coloque aqui as fotos da equipe (JPG ou WebP, formato retrato 4:5, pelo menos 800 x 1000 px).
+Depois informe o caminho no campo "foto" em assets/js/equipe.js, por exemplo:
+  foto: 'assets/img/equipe/andressa.jpg'

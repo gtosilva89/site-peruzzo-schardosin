@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sistema/
+Sitemap: https://www.peruzzoschardosin.adv.br/sitemap.xml
